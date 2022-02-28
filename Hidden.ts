@@ -1,5 +1,5 @@
 const hidden = {
-	'2-3': '[12] 24 - 18 - 13 - 12 - 1:5',
+	'2-25': '[10] 12 - 12 - 11 - 9 - 8',
 };
 
 // +++ significa que la proxima semana se aumentara
